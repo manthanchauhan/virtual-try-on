@@ -93,3 +93,8 @@ AI-powered clothing visualization system using FitDiT deep learning model to gen
 - **Endpoint**: `/api/v1/status/{job_id}`
 - **Method**: GET
 - **Response**: JSON object with job status and progress information
+
+## 5. Sample
+Model Input | Garment Input | Output
+--- | --- | --- 
+!(mode image)[https://github.com/manthanchauhan/virtual-try-on/blob/main/model2.png] | !(garment image)[https://github.com/manthanchauhan/virtual-try-on/blob/main/04_dress.png] | !(output)[https://github.com/manthanchauhan/virtual-try-on/blob/main/ComfyUI_output_00002_.png]
