@@ -97,4 +97,4 @@ AI-powered clothing visualization system using FitDiT deep learning model to gen
 ## 5. Sample
 Model Input | Garment Input | Output
 --- | --- | --- 
-!(mode image)[https://github.com/manthanchauhan/virtual-try-on/blob/main/model2.png] | !(garment image)[https://github.com/manthanchauhan/virtual-try-on/blob/main/04_dress.png] | !(output)[https://github.com/manthanchauhan/virtual-try-on/blob/main/ComfyUI_output_00002_.png]
+![mode image](https://github.com/manthanchauhan/virtual-try-on/blob/main/model2.png) | ![garment image](https://github.com/manthanchauhan/virtual-try-on/blob/main/04_dress.png) | ![output](https://github.com/manthanchauhan/virtual-try-on/blob/main/ComfyUI_output_00002_.png)
